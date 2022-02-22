@@ -26,3 +26,6 @@ Website Link
 
 
 Project Screenshot
+![Screenshot Note taker](https://user-images.githubusercontent.com/93783055/155171103-d0422381-66d1-4103-98ef-d8ed76d57700.png)
+
+![Screenshot notetaker](https://user-images.githubusercontent.com/93783055/155171194-4ef6882a-7f4f-4309-9e16-7a311e759ee4.png)
